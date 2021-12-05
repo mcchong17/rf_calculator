@@ -1,6 +1,7 @@
 # tlc_plate_analyser and rf calculator
 Digitise thin layer chromatography plactes and automatically measures the rf values of tlc plates
 Rf_calculator.ipynb ©Michelle Chong, April 2021, Release 1.0
+*Code written for university project*
 
 Dependencies: numpy v1.18.5, matplotlib	v3.2.2, opencv/cv2 v4.0.2
 
